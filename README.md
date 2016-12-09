@@ -6,4 +6,4 @@ Lets rig up a blackbox with a bunch of sensors and see what cool data/patterns w
 - [ARDUINO 101](https://www.arduino.cc/en/Main/ArduinoBoard101)
 - Gyroscope (built in)
 - 6-Axis Accelerometer (built in)
-- Barometer Altimeter [(Adafruit MPL3115A2)](https://www.adafruit.com/product/1893)
+- Barometric Pressure/Altitude/Temperature Sensor [(Adafruit MPL3115A2)](https://www.adafruit.com/product/1893)
