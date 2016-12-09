@@ -4,6 +4,6 @@ Lets rig up a blackbox with a bunch of sensors and see what cool data/patterns w
 
 ## Hardware + Sensors
 - [ARDUINO 101](https://www.arduino.cc/en/Main/ArduinoBoard101)
-- Gyroscope (built into 101)
-- 6-Axis Accelerometer (built into 101)
+- 3-Axis Gyroscope (built into 101, [Specs/Data Sheets](http://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf))
+- 3-Axis Accelerometer (built into 101, [Specs/Data Sheets](http://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf))
 - Barometric Pressure/Altitude/Temperature Sensor [(Adafruit MPL3115A2)](https://www.adafruit.com/product/1893)
